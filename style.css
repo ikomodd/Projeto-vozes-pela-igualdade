@@ -46,8 +46,10 @@ button {
 
 #entrevista {
   
-  width: 53vh;
-  height: 30vh;
+  width: 50vh;
+  height: 27vh;
+
+  margin: 0 12px;
   
   border-radius: 10px
 }
