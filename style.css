@@ -1,0 +1,56 @@
+body {
+  
+  background-color: #1d1d1d
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  border-radius: 10px
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;;
+  color: white;
+  padding:5vw 4.7vh;
+  text-decoration: none
+}
+
+p {
+  color: white;
+}
+
+button {
+  margin-top: 7px;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 7px
+}
+
+#StartIMG {
+  width: 100%;
+  
+  display: block;
+  margin: auto;
+  border-radius: 10px
+}
+
+#sobrelogo {
+  width: 20vh;
+  display: block;
+  margin: 50px auto;
+}
