@@ -44,6 +44,14 @@ button {
   border-radius: 7px
 }
 
+#entrevista {
+  
+  width: 53vh;
+  height: 30vh;
+  
+  border-radius: 10px
+}
+
 #StartIMG {
   width: 100%;
   
