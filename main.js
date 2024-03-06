@@ -6,6 +6,8 @@ const imagemElement = document.getElementById("StartIMG")
 const imagens = [
   "Midia/CAPA.jpg",
   "Midia/IMG1.jpg"
+  "Midia/IMG-20240305-WA0070.jpg" 
+  "Midia/IMG-20240305-WA0071.jpg" 
 ] 
 
 var ImagemAtual = 0
